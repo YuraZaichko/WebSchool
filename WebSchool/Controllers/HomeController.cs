@@ -10,7 +10,7 @@ namespace WebSchool.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View();//hack 2
         }
     }
 }
